@@ -1,0 +1,46 @@
+BODY{
+	background-color: #FFFFFF;
+}
+
+.title {
+	background-color: #00BFFF;
+	height: 180px;
+}
+
+.sitename{
+	font-style: normal;
+	font-size: 30;
+
+}
+
+.middle{
+	height: 80%;
+	border: solid black 5px;
+}
+
+.copyrigth{
+	margin-left: 85%;
+}
+
+.form{
+	margin-left: 40%;
+	margin-top: 20%;
+}
+
+.form2{
+	margin-left: 40%;
+
+}
+
+
+.login{
+	width: 15%;
+	background-color: #00BFFF;
+	color: #000000;
+}
+
+.continuenologged{
+	margin-top: 10%;
+	margin-left: 40%;
+	width : 120%;
+}
