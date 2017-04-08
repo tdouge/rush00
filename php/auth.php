@@ -3,9 +3,9 @@ function auth($login, $passwd)
 {
 	$data = array();
 	$data = unserialize(file_get_contents("./private/passwd"));
+		$i = 0;
 	if ($login && $passwd)
 	{
-		$i = 0;
 		while($data[$i])
 		{
 			if ($data[$i]["login"] == $login)

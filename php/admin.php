@@ -3,9 +3,6 @@ session_start();
 
 function 	add_products(void)
 {
-	if (!file_exists("../products"))
-	   file_put_contents("../products", "");
-
 	 $products = array();
 	 $products = serialize(file_get_contents("../products"));
 

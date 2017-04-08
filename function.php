@@ -19,17 +19,17 @@ function menu_e()
   echo '<div class="bandeau">
 
   	<div class="box">
-  		<a href="login.html" alt="Lien vers login.html" style="display:block;width:100%;height:100%;">
+  		<a href="login.php" alt="Lien vers login.html" style="display:block;width:100%;height:100%;">
   			<img src="img/log.png" alt=log.png width="100%" height="100%">
   		</a>
   	</div>
   	<div class="box">
-  		<a href="register.html" alt="register.html" style="display:block;width:100%;height:100%;">
+  		<a href="register.php" alt="register.html" style="display:block;width:100%;height:100%;">
   			<img src="img/register.jpg" alt=panier.jpg width="100%" height="100%">
   		</a>
   	</div>
   	<div class="box">
-  		<a href="panier.html" alt="panier.html" style="display:block;width:100%;height:100%;">
+  		<a href="panier.php" alt="panier.html" style="display:block;width:100%;height:100%;">
   			<img src="img/panier.jpg" alt=panier.jpg width="100%" height="100%">
   		</a>
   	</div>

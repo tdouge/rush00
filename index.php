@@ -1,5 +1,7 @@
 <?php
 include('function.php');
+include('php/install.php');
+install();
 header_e("admin.php", 'LE MEILLEUR SITE D E-COMMERCE DU MONDE');
 menu_e();
  ?>
