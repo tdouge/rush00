@@ -41,33 +41,19 @@ table{
 	margin-left: 15%;
 	margin-right: 15%;
 }
-.panier{
-	position: relative;
-	bottom: 60px;
-	left: 85%;
-	width: 60px;
+
+.box{
+	display:inline-block;
+	width: 108px;
 	height: 60px;
+	float: right;
 }
+
 .categorie_1{
 	position: relative;
 	bottom: 0px;
 	left: 0px;
 	width: 60px;
-	height: 60px;
-}
-.categorie_2{
-	position: relative;
-	bottom: 0px;
-	left: 0px;
-	width: 60px;
-	height: 60px;
-}
-
-.log{
-	position: relative;
-	bottom: 0px;
-	left: 90%;
-	width: 118px;
 	height: 60px;
 }
 
