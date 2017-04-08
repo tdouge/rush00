@@ -94,3 +94,10 @@ table{
 	margin-left: 40%;
 	width : 120%;
 }
+.product{
+	width:350px;
+	height: auto;
+	padding:1vw;
+	border: solid black 1px;
+	text-align:right;
+}
